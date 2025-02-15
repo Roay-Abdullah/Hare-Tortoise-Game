@@ -32,17 +32,6 @@ This project is a simulation of the classic **Tortoise and Hare** race, implemen
 | Hare     | Big slip  | 20%         | 9 squares left   |
 | Hare     | Small hop | 22%         | 1 square right   |
 
-## How to Run
-
-1. **Compile the program** using a C++ compiler (e.g., g++ or Visual Studio Code).
-   ```sh
-   g++ -o race tortoise_hare_race.cpp
-   ```
-2. **Run the executable**
-   ```sh
-   ./race
-   ```
-3. **Watch the race unfold** in the terminal.
 
 ## Future Enhancements
 
